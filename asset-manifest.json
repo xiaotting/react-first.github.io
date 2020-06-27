@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/xiaotting/react-first.github.io.git/static/css/main.026dadde.chunk.css",
-    "main.js": "/xiaotting/react-first.github.io.git/static/js/main.42715313.chunk.js",
-    "main.js.map": "/xiaotting/react-first.github.io.git/static/js/main.42715313.chunk.js.map",
-    "runtime-main.js": "/xiaotting/react-first.github.io.git/static/js/runtime-main.bc0bcd54.js",
-    "runtime-main.js.map": "/xiaotting/react-first.github.io.git/static/js/runtime-main.bc0bcd54.js.map",
-    "static/js/2.394dcc8f.chunk.js": "/xiaotting/react-first.github.io.git/static/js/2.394dcc8f.chunk.js",
-    "static/js/2.394dcc8f.chunk.js.map": "/xiaotting/react-first.github.io.git/static/js/2.394dcc8f.chunk.js.map",
-    "index.html": "/xiaotting/react-first.github.io.git/index.html",
-    "precache-manifest.90c13a9302eb7b97bca41e31e1199451.js": "/xiaotting/react-first.github.io.git/precache-manifest.90c13a9302eb7b97bca41e31e1199451.js",
-    "service-worker.js": "/xiaotting/react-first.github.io.git/service-worker.js",
-    "static/css/main.026dadde.chunk.css.map": "/xiaotting/react-first.github.io.git/static/css/main.026dadde.chunk.css.map",
-    "static/js/2.394dcc8f.chunk.js.LICENSE.txt": "/xiaotting/react-first.github.io.git/static/js/2.394dcc8f.chunk.js.LICENSE.txt"
+    "main.css": "/react-first.github.io/static/css/main.026dadde.chunk.css",
+    "main.js": "/react-first.github.io/static/js/main.42715313.chunk.js",
+    "main.js.map": "/react-first.github.io/static/js/main.42715313.chunk.js.map",
+    "runtime-main.js": "/react-first.github.io/static/js/runtime-main.578b21d6.js",
+    "runtime-main.js.map": "/react-first.github.io/static/js/runtime-main.578b21d6.js.map",
+    "static/js/2.394dcc8f.chunk.js": "/react-first.github.io/static/js/2.394dcc8f.chunk.js",
+    "static/js/2.394dcc8f.chunk.js.map": "/react-first.github.io/static/js/2.394dcc8f.chunk.js.map",
+    "index.html": "/react-first.github.io/index.html",
+    "precache-manifest.104f131f390d684e5b2131e7fdd8c2a5.js": "/react-first.github.io/precache-manifest.104f131f390d684e5b2131e7fdd8c2a5.js",
+    "service-worker.js": "/react-first.github.io/service-worker.js",
+    "static/css/main.026dadde.chunk.css.map": "/react-first.github.io/static/css/main.026dadde.chunk.css.map",
+    "static/js/2.394dcc8f.chunk.js.LICENSE.txt": "/react-first.github.io/static/js/2.394dcc8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc0bcd54.js",
+    "static/js/runtime-main.578b21d6.js",
     "static/js/2.394dcc8f.chunk.js",
     "static/css/main.026dadde.chunk.css",
     "static/js/main.42715313.chunk.js"
